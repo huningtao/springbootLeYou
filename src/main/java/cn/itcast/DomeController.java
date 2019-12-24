@@ -8,6 +8,6 @@ public class DomeController {
 	
 	@RequestMapping("dome")
 	public String dome() {
-		return "这是一个小测sdf试";
+		return "这是一个小xxxxx测sdf试";
 	}
 }
